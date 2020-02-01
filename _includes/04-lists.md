@@ -1,3 +1,3 @@
-- [ ] Emojis
+- [ ] :smile:
 - [ ] Ordered Lists
 - [ ] Unordered Lists
